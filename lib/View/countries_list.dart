@@ -1,4 +1,4 @@
-import 'package:C19_Stats/Routes/routes.dart';
+import 'package:Virus_Stats/Routes/routes.dart';
 import 'package:flutter/material.dart';
 import 'package:shimmer/shimmer.dart';
 

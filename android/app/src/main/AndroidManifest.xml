@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ekatchery.c19_stats">
+    package="com.ekatchery.virus_stats">
    <application
-        android:label="Covid-19 Tracker"
+        android:label="Virus Stats"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

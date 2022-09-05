@@ -1,4 +1,4 @@
-package com.ekatchery.c19_stats
+package com.ekatchery.virus_stats
 
 import io.flutter.embedding.android.FlutterActivity
 

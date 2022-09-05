@@ -1,8 +1,8 @@
-import 'package:C19_Stats/Routes/routes.dart';
-import 'package:C19_Stats/View/countries_list.dart';
-import 'package:C19_Stats/View/country_detail_screen.dart';
-import 'package:C19_Stats/View/splash_screen.dart';
-import 'package:C19_Stats/View/world_stats.dart';
+import 'package:Virus_Stats/Routes/routes.dart';
+import 'package:Virus_Stats/View/countries_list.dart';
+import 'package:Virus_Stats/View/country_detail_screen.dart';
+import 'package:Virus_Stats/View/splash_screen.dart';
+import 'package:Virus_Stats/View/world_stats.dart';
 import 'package:flutter/material.dart';
 
 class Routes {

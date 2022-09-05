@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'package:C19_Stats/Models/world_stats_model.dart';
-import 'package:C19_Stats/Services/app_urls.dart';
+import 'package:Virus_Stats/Models/world_stats_model.dart';
+import 'package:Virus_Stats/Services/app_urls.dart';
 
 class WorldStats {
   Future<WorldStatsModel> fetchWorldStatsRecords() async {
