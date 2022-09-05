@@ -1,10 +1,9 @@
-import 'package:covid_tracker/Models/world_stats_model.dart';
-import 'package:covid_tracker/Routes/routes.dart';
+import 'package:C19_Stats/Models/world_stats_model.dart';
+import 'package:C19_Stats/Routes/routes.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:pie_chart/pie_chart.dart';
 import '../Services/stats.dart';
-
 
 class WorldStatsScreen extends StatefulWidget {
   const WorldStatsScreen({Key? key}) : super(key: key);

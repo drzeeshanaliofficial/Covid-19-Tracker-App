@@ -1,6 +1,6 @@
 // ignore_for_file: must_be_immutable
 
-import 'package:covid_tracker/View/world_stats.dart';
+import 'package:C19_Stats/View/world_stats.dart';
 import 'package:flutter/material.dart';
 
 class DetailScreen extends StatefulWidget {

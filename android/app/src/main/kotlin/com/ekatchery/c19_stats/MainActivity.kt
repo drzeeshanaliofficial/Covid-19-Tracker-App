@@ -1,4 +1,4 @@
-package com.ekatchery.covid_19_tracker
+package com.ekatchery.c19_stats
 
 import io.flutter.embedding.android.FlutterActivity
 

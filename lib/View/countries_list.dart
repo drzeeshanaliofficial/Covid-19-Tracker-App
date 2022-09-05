@@ -1,5 +1,4 @@
-import 'package:covid_tracker/Routes/routes.dart';
-import 'package:covid_tracker/View/country_detail_screen.dart';
+import 'package:C19_Stats/Routes/routes.dart';
 import 'package:flutter/material.dart';
 import 'package:shimmer/shimmer.dart';
 

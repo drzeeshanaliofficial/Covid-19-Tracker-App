@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'package:covid_tracker/Models/world_stats_model.dart';
-import 'package:covid_tracker/Services/app_urls.dart';
+import 'package:C19_Stats/Models/world_stats_model.dart';
+import 'package:C19_Stats/Services/app_urls.dart';
 
 class WorldStats {
   Future<WorldStatsModel> fetchWorldStatsRecords() async {
@@ -16,7 +16,6 @@ class WorldStats {
   }
 
   Future<List<dynamic>> fetchCountriesList() async {
-
     final response = await http.get(Uri.parse(AppUrl.countriesList));
 
     if (response.statusCode == 200) {
