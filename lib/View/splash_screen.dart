@@ -63,7 +63,7 @@ class _SplashScreenState extends State<SplashScreen>
             const Align(
                 alignment: Alignment.center,
                 child: Text(
-                  'Covid-19\nTracker App',
+                  'Virus Statistics',
                   style: TextStyle(
                     color: Colors.white,
                     fontWeight: FontWeight.bold,
